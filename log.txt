@@ -1,0 +1,17 @@
+﻿18.02.2023 18:12:44 127.0.0.1 /home.html 200
+18.02.2023 18:12:44 127.0.0.1 /home_files/picture-of-something.jpg 200
+
+28.02.2023 18:39:26 127.0.0.1 /home.html 200
+28.02.2023 18:39:26 127.0.0.1 /home_files/picture-of-something.jpg 200
+28.02.2023 18:39:50 127.0.0.1 /hoe.html 404
+28.02.2023 18:43:25 127.0.0.1 /home.html 200
+28.02.2023 18:43:25 127.0.0.1 /home_files/picture-of-something.jpg 200
+28.02.2023 18:43:43 127.0.0.1 /hoe.html 404
+28.02.2023 18:43:56 127.0.0.1 /home.html 200
+28.02.2023 18:43:56 127.0.0.1 /home_files/picture-of-something.jpg 200
+28.02.2023 18:44:56 127.0.0.1 /home.html 200
+28.02.2023 18:44:56 127.0.0.1 /home_files/picture-of-something.jpg 200
+28.02.2023 18:45:07 127.0.0.1 /hoe.html 404
+28.02.2023 18:46:23 127.0.0.1 /home.html 200
+28.02.2023 18:46:23 127.0.0.1 /home_files/picture-of-something.jpg 200
+28.02.2023 18:46:37 127.0.0.1 /home.html%20200 404

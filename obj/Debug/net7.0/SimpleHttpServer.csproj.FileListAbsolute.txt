@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\SimpleHttpServer-master\bin\Debug\net7.0\SimpleHttpServer.exe
+C:\Users\Павел\Desktop\SimpleHttpServer-master\bin\Debug\net7.0\SimpleHttpServer.deps.json
+C:\Users\Павел\Desktop\SimpleHttpServer-master\bin\Debug\net7.0\SimpleHttpServer.runtimeconfig.json
+C:\Users\Павел\Desktop\SimpleHttpServer-master\bin\Debug\net7.0\SimpleHttpServer.dll
+C:\Users\Павел\Desktop\SimpleHttpServer-master\bin\Debug\net7.0\SimpleHttpServer.pdb
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\SimpleHttpServer.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\SimpleHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\SimpleHttpServer.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\SimpleHttpServer.AssemblyInfo.cs
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\SimpleHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\SimpleHttpServer.dll
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\refint\SimpleHttpServer.dll
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\SimpleHttpServer.pdb
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\SimpleHttpServer.genruntimeconfig.cache
+C:\Users\Павел\Desktop\SimpleHttpServer-master\obj\Debug\net7.0\ref\SimpleHttpServer.dll
